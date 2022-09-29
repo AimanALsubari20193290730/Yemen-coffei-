@@ -1,0 +1,581 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* coffee img css */
+.imgcof{
+	height:207px;
+	width:310px;
+}
+input[type=text] {
+	
+}
+/* about img css */
+.imgteam{
+	height:290px;
+	width:290px; 
+	border-radius: 50% !important;
+}
+.imgteam:hover{
+	height:400px;
+	width:400px; 
+	border-radius: 50% !important;
+}
+.team{
+text-align:center;
+}	
+
+/* slide img css */
+.nature{
+height:550px;
+width:1000px;
+margin-top:40px;
+margin-left:200px;
+}	
+
+
+
+a{
+	text-decoration: none !important;
+	
+}
+.ti{
+margin-top:3px;
+    
+}
+
+.imgico{
+	width:50px !important;
+	height:50px !important;
+	margin-left:20px !important;
+}
+
+/* shopping css  */
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+
+   margin-top:10px;
+   margin-bottom:20px;
+}
+
+.price {
+  color: grey;
+  font-size: 22px;
+}
+
+.card button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+ 
+  bottom: 0;
+  right: 0;
+}
+
+.card button:hover {
+  opacity: 0.7;
+}
+.left{
+	float:left;
+	margin-left:90px !important;
+	margin-right:px !important;
+}
+.imgg{
+	
+	height:250px !important;
+	width:298px !important;
+}
+.prod{
+	text-align:center;
+	margin-top:100px;
+}
+
+/* addtocart css*/
+
+.imgp{
+	
+	height:100px;
+	width:100px;
+	margin-left:-140px !important;
+}
+
+.nomargin{
+	margin-left:-90px !important;
+
+}
+.size{
+	padding-left:40px !important;
+}
+.grind{
+	padding-left:50px !important;
+}
+.control{
+	margin-top:-8px !important;
+	width:140px;
+}
+.control1{
+	margin-top:-8px !important;
+}
+.chck{
+
+	margin-right:100px !important;
+}
+
+.prodimg{
+	height:30px;
+	width:30px;
+	
+}
+
+.imgg{
+	
+	height:250px !important;
+	width:298px !important;
+}
+/* login css*/
+.forr{border: 3px solid #f1f1f1;
+width:700px;
+margin-left:300px !important;
+margin-top:100px;
+}
+
+.lo {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius:15px;
+	
+ 
+}
+
+.log{
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+.log:hover {
+  opacity: 0.8;
+}
+
+.cance {
+  width: auto;
+  padding: 10px 18px;
+  background-color: #f44336;
+}
+
+
+
+
+
+.container {
+  padding: 16px;
+}
+
+span.psw {
+  float: right;
+  padding-top: 16px !important;
+}
+
+/* css for Dashboard */
+
+
+.button2 {background-color: green !important;
+
+} 
+.button3 {background-color: green !important;} /* Red */ 
+.bbutton {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  width:200px;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  margin-left:50px;
+}
+.dash{
+	 border: 3px solid #398ef1;
+	  height:200px !important;
+	  width:300px;
+	  background-color:white;
+	  margin-left:500px !important;
+	  margin-top:120px;
+}
+.ordr{
+	color:white;
+}
+.ordr:hover {
+  color: white;
+   text-decoration: none !important;
+   
+}
+
+/* profile for customer */
+
+.h11{
+
+padding-top:120px;
+padding-left:600px;
+}	
+.thh{
+background-color:#119dda;
+color:white;
+height:5px !important;	
+padding:12px;
+margin:0;
+border-bottom-width: 2px solid white;
+} 
+
+.tth{
+	height:5px !important;
+	padding:12px;
+margin:0;
+text-align:center;
+color:white;
+border-bottom-width: 2px solid white;
+    
+}
+
+.phone{
+	
+width:400px !important;
+margin-left:60px !important;
+
+}	
+.tabl{
+	 background-image: url("img/back.jpg");
+	margin-left:450px;
+	width:350px;
+	height:300px;
+}
+
+.tab{
+	background-image: url("img/coffeebk1.jpg")!important;
+	 height: 100% !image;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/* Dashboard for the seller */
+.dashh{
+	   border: 3px solid #398ef1;
+	  height:300px !important;
+	  width:300px;
+	  background-color:white;
+	  margin-left:500px !important;
+	  margin-top:120px;
+}
+
+/* Dashboard for the admin */
+.dashhh{
+	 border: 3px solid #398ef1;
+	  height:300px !important;
+	  width:300px;
+	  background-color:white;
+	  margin-left:500px !important;
+	  margin-top:120px;
+}
+/* css for signup*/
+
+}
+.h2{
+padding-top:120px;
+margin-left:450px;
+	
+}
+
+.tablee{
+	 border: 1px solid black;
+	 width:1300px;
+}
+.info{
+	border: 1px solid black;
+}
+
+/* css for button*/
+.myButton {
+	box-shadow: 7px 4px 0px -1px #97c4fe;
+	background:linear-gradient(to bottom, #3d94f6 5%, #1e62d0 100%);
+	background-color:#3d94f6;
+	border-radius:15px;
+	border:2px solid #337fed;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	text-align:center;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #1570cd;
+	width:200px !important;
+	height:50px;
+	margin-left:50px;
+	margin-top:10px;
+	padding-top:10px;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #1e62d0 5%, #3d94f6 100%);
+	background-color:#1e62d0;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.btn{
+		border:0px solid #337fed;
+		background-color:#398ef1;
+}
+.dassh{
+	  border: 3px solid #398ef1;
+	  height:300px !important;
+	  width:300px;
+	  background-color:white;
+	  margin-left:500px !important;
+	  margin-top:120px;
+}
+.imgicon{
+	width:30px;
+	height:30px;
+	margin-left:40px !important;
+}
+.imgiconn{
+	width:30px;
+	height:30px;
+	margin-left:70px !important;
+}
+.sig{
+ font-family: Verdana,sans-serif;
+     font-size: 25px;
+    line-height: 1.5;
+	text-align:center;
+	
+	
+}
+
+.myButtonn {
+	box-shadow: 7px 4px 0px -1px #97c4fe;
+	background:linear-gradient(to bottom, #3d94f6 5%, #1e62d0 100%);
+	background-color:#3d94f6;
+	border-radius:15px;
+	border:2px solid #337fed;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	text-align:center;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #1570cd;
+	width:200px !important;
+	height:50px;
+	margin-left:0px;
+	margin-top:0px;
+	padding-top:0px;
+}
+.myButtonn:hover {
+	background:linear-gradient(to bottom, #1e62d0 5%, #3d94f6 100%);
+	background-color:#1e62d0;
+}
+.myButtonn:active {
+	position:relative;
+	top:1px;
+}
+
+.myButtonnn {
+	box-shadow: 3px 4px 0px 0px #8a2a21;
+	background:linear-gradient(to bottom, #c62d1f 5%, #f24437 100%);
+	background-color:#c62d1f;
+	border-radius:18px;
+	border:1px solid #d02718;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:7px 25px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #810e05;
+}
+.myButtonnn:hover {
+	background:linear-gradient(to bottom, #f24437 5%, #c62d1f 100%);
+	background-color:#f24437;
+}
+.myButtonnn:active {
+	position:relative;
+	top:1px;
+}
+.forr{
+	background-image: url("img/signup.jpg");
+	border:1px solid black;
+	 height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.for{
+	background-image: url("img/coffeebk1.jpg");
+	border:1px solid black;
+	 height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+ /* login background*/
+.foo{
+	background-image: url("img/signup.jpg");
+	border:1px solid black;
+	 height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.fo{
+	background-image: url("img/signup.jpg");
+	border:1px solid black;
+	 height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* css add prodcus button*/
+
+.myButtonn {
+	box-shadow: 7px 4px 0px -1px #97c4fe;
+	background:linear-gradient(to bottom, #3d94f6 5%, #1e62d0 100%);
+	background-color:#3d94f6;
+	border-radius:15px;
+	border:2px solid #337fed;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	text-align:center;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #1570cd;
+	width:220px !important;
+	height:50px;
+	margin-left:0px;
+	margin-top:0px;
+	padding-top:0px;
+}
+.myButtonn:hover {
+	background:linear-gradient(to bottom, #1e62d0 5%, #3d94f6 100%);
+	background-color:#1e62d0;
+}
+.myButtonn:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+/* addtocart css*/
+.bloc_left_price {
+    color: #c01508;
+    text-align: center;
+    font-weight: bold;
+    font-size: 150%;
+}
+.category_block li:hover {
+    background-color: #007bff;
+}
+.category_block li:hover a {
+    color: #ffffff;
+}
+.category_block li a {
+    color: #343a40;
+}
+.add_to_cart_block .price {
+    color: #c01508;
+    text-align: center;
+    font-weight: bold;
+    font-size: 200%;
+    margin-bottom: 0;
+}
+.add_to_cart_block .price_discounted {
+    color: #343a40;
+    text-align: center;
+    text-decoration: line-through;
+    font-size: 140%;
+}
+.product_rassurance {
+    padding: 10px;
+    margin-top: 15px;
+    background: #ffffff;
+    border: 1px solid #6c757d;
+    color: #6c757d;
+}
+.product_rassurance .list-inline {
+    margin-bottom: 0;
+    text-transform: uppercase;
+    text-align: center;
+}
+.product_rassurance .list-inline li:hover {
+    color: #343a40;
+}
+.reviews_product .fa-star {
+    color: gold;
+}
+.pagination {
+    margin-top: 20px;
+}
+.dow{
+margin-top:120px;	
+}
+.imgpp{
+height:50px;
+width:50px;
+}
+.colorr{
+background-color: #7d4627 !important;
+border:2px solid gray;
+}
+
+.tion{
+background-color:#f2f2f2 !important;	
+	
+}
